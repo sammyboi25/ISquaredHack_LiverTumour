@@ -10,9 +10,8 @@ Liver ultrasound images are challenging due to:
 
 High noise and low contrast
 
-Significant class imbalance
-<img width="836" height="680" alt="image" src="https://github.com/user-attachments/assets/fa812de2-c86a-4721-a146-2fbc2496a8cf" />
-
+Significant class imbalance:
+<img width="1072" height="688" alt="image" src="https://github.com/user-attachments/assets/6b829d18-6c91-4a09-b35e-da2a4f53c15b" />
 
 Presence of negative images with no detectable findings
 
@@ -83,6 +82,10 @@ Final distributions were visualized to confirm dataset balance.
 YOLO-Ready Dataset Construction
 
 All balanced class images and annotations were merged into a single YOLO-compatible training folder
+
+The balanced classes:
+<img width="1072" height="688" alt="image" src="https://github.com/user-attachments/assets/84f241f7-8897-496f-bd37-81660065e194" />
+
 
 Validation data was merged similarly
 
