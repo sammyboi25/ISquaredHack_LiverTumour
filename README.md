@@ -11,6 +11,8 @@ Liver ultrasound images are challenging due to:
 High noise and low contrast
 
 Significant class imbalance
+<img width="836" height="680" alt="image" src="https://github.com/user-attachments/assets/fa812de2-c86a-4721-a146-2fbc2496a8cf" />
+
 
 Presence of negative images with no detectable findings
 
